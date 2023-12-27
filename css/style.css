@@ -541,6 +541,10 @@ a:focus {
 .client_section #carouselExampleControls {
   padding: 0 10%;
 }
+ .speakers-container > .row:first-child {
+      display: flex;
+      justify-content: center;
+    }
 
 .client_section .box {
   display: -webkit-box;
